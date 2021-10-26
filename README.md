@@ -1,4 +1,4 @@
-First, we want to make sure you know protecting your privacy is important to us. The following statement will help you understand how our applications deal with personally identifiable information (‘PII’). You may occasionally provide to us PII via the Internet (the Google Play Platform).
+The following statement will help you understand how our applications deal with personally identifiable information (‘PII’). You may occasionally provide to us PII via the Internet (the Google Play Platform).
 
 Generally, we do not intend to collect any PII from you when you download our application. That means we do not require the consumers to register before downloading our application. Also, we do not require any PII from the user. We don’t have a Server to store such PII.
 
