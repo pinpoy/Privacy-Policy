@@ -14,6 +14,6 @@ We may get access to your PII when you decide to email us your feedback or provi
 
 Furthermore, we will use your PII for contacting you and improving our services only. We will never use such information (e.g., your name and email address) for any other purposes.
 
-Sending us your feedback or bug report is entirely voluntary. Also, we may update or modify this Privacy Policy at any time without prior notice. If you have any additional questions about our privacy policy, feel free to email us at ascendik.help@gmail.com.
+Sending us your feedback or bug report is entirely voluntary. Also, we may update or modify this Privacy Policy at any time without prior notice. If you have any additional questions about our privacy policy, feel free to email us at grocerydeveloper@gmail.com.
 
 In the end, our Free app is not directed to children, and we do not knowingly collect any personal information from children under 13 years of age.
